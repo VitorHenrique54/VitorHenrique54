@@ -69,7 +69,7 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas, com interesse princ
     title="Android Studio" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 />
 
 <img 
